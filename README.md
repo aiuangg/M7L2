@@ -6,4 +6,4 @@ Mendaur ulang merupakan salah satu cara untuk memanfaatkan sampah yang telah dip
 Program yang telah saya buat dapat mempermudah kegiatan masyarakat dalam membedakan sampah yang dapat didaur ulang dan yang tidak dapat didaur ulang   
 ヾ(＠⌒ー⌒＠)ノ
 
-(![image](https://github.com/user-attachments/assets/598f95ab-35fc-453a-b716-7e911ceca91b)
+![image](https://github.com/user-attachments/assets/598f95ab-35fc-453a-b716-7e911ceca91b)
